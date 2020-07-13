@@ -6,5 +6,8 @@ Usage: Enter parameters for initial angles for mass 1 and mass 2 to get the moti
 
 Graphs examples:
 
-![](images/filename%myplot.png)
+
+![](image/myplot1.png)
+![](image/myplot2.png)
+![](image/myplot4.png)
 
